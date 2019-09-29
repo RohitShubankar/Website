@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.slideshare.net/secret/5WKCQ2iUyYNrBr"
   date_start = "2017-01-01"
-  date_end = "2017-04-01"
+  date_end = ""
   description = """A 12-week online course conducted by NPTEL on Internetwork Security which deals with the study of cryptography and network security."""
 
 +++
