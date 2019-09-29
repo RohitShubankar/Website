@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "NPTEL"
   organization_url = "https://nptel.ac.in/"
-  title = "Learn Ethical Hacking from Scratch"
+  title = "Internetwork Security"
   url = ""
   certificate_url = "https://www.slideshare.net/secret/5WKCQ2iUyYNrBr"
   date_start = "2017-01-01"
