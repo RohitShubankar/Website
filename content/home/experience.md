@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Intern"
+  company = "Skylark Drones"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Bangalore, India"
+  date_start = "2018-05-07"
+  date_end = "2018-06-07"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Worked on GIS systems and its related problems.
+  * Designed and developed module for video verification to analyze and compare the drone obtained data with the client obtained data.
+  * Developed the module in python.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Intern"
+  company = "Nuclear Power Corporation of India Limited (NPCIL), Kaiga Generating Station"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Karnataka, India"
+  date_start = "2017-12-01"
+  date_end = "2018-01-01"
+  description = """
+
+  * Workshops on technologies and systems used in the Power Plant.
+  * Designed and developed a basic prototype for the employee attendance system for usage in the power plant.
+  * Obtained elementary knowledge in Cold Fusion.
+  """
 
 +++
