@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'rohit.shubankar@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
+- icon: Linkedin
   icon_pack: fas
   link: 'https://www.linkedin.com/in/shubankar-b-05a4ab124/'
 #- icon: twitter
