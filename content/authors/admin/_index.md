@@ -22,8 +22,8 @@ bio: Deeply interested in the field of Cyber Security.
 
 interests:
 - Cyber & Information Security
-- Threat Analysis
 - Cryptography
+- Amazon Web Services
 
 education:
   courses:
