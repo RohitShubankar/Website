@@ -1,6 +1,8 @@
-widget = "portfolio"  # Use the Portfolio widget
++++
+widget = "projects"  # Use the Portfolio widget
 headless = true  # This file represents a page section.
 
+title = "Projects"
 # ... Put Your Section Options Here (title etc.) ...
 
 [content]
