@@ -10,9 +10,9 @@ subtitle = ""
 
 # ... Put Your Section Options Here (title etc.) ...
 
-[content]
-  # Page type to display. E.g. project.
-  page_type = "project"
+#[content]
+#  # Page type to display. E.g. project.
+#  page_type = "project"
 
 [[item]]
   organization = "Coursera"
