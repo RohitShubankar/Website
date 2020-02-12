@@ -8,11 +8,15 @@ weight = 60  # Order that this section will appear.
 title = "Projects"
 subtitle = ""
 
-# ... Put Your Section Options Here (title etc.) ...
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
-#[content]
-#  # Page type to display. E.g. project.
-#  page_type = "project"
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
   organization = "Coursera"
@@ -42,6 +46,6 @@ subtitle = ""
   certificate_url = "https://www.slideshare.net/secret/5WKCQ2iUyYNrBr"
   date_start = "2017-01-01"
   date_end = ""
-  description = """A 12-week online course conducted by NPTEL on Internetwork Security which deals with the study of cryptography and network security."""  
+  description = """A 12-week online course conducted by NPTEL on Internetwork Security which deals with the study of cryptography and network security."""
 
 +++
