@@ -1,10 +1,6 @@
-+++
-# Projects widget
-widget = "Projects"  # Use the Portfolio widget
+widget = "portfolio"  # Use the Portfolio widget
 headless = true  # This file represents a page section.
-active = true # Activate this widget? true/false
 
-title = "Projects"
 # ... Put Your Section Options Here (title etc.) ...
 
 [content]
