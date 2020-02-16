@@ -15,9 +15,9 @@ headless = true  # This file represents a page section.
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
+    tag = "Hello "
+    category = "IOT"
+    publication_type = "Elsevier Journal"
 
 [design]
   # Toggle between the various page layout types.
