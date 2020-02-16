@@ -1,4 +1,4 @@
-- -
+---
 title: Projects
 # View.
 # 1 = List
@@ -9,4 +9,4 @@ view: 2
 header:
  caption: ""
  image: ""
- - -
+ ---
