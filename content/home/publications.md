@@ -1,9 +1,9 @@
 +++
-widget = "pages"  # Use the Pages widget
+widget = "Publications"  # Use the Pages widget
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-
+title = "Publications"
 [[content]]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
