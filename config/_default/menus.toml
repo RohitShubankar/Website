@@ -21,7 +21,7 @@
 [[main]]
   name = "Publications"
   #url = "#Publications"
-  url = "https://doi.org/10.1016/j.procs.2020.01.092"
+  url = "#https://doi.org/10.1016/j.procs.2020.01.092"
   weight = 40
 
 [[main]]
