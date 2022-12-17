@@ -43,7 +43,8 @@ date_format = "Jan 2006"
   * Workshops on technologies and systems used in the Power Plant.
   * Designed and developed a basic prototype for the employee attendance system for usage in the power plant.
   * Obtained elementary knowledge in Cold Fusion.
-
+  """
+  
 [[experience]]
   title = "Intern"
   company = "Skylark Drones"
@@ -53,7 +54,7 @@ date_format = "Jan 2006"
   date_end = "2018-06-07"
   description = """
 
-  * """Designed Video Verification Module which verifies if the video data captured by the drone meets the client requirements in terms of coverage and Area of Interest (AOI)."""
+  * Designed Video Verification Module which verifies if the video data captured by the drone meets the client requirements in terms of coverage and Area of Interest (AOI).
   * Implemented the core logic and wrote scripts that involved weeding out faulty input data.
   * Increased team efficiency by adding clear and extensive documentation and comments.
   """
