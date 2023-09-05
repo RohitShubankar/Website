@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: Associate Software Systems Engineer at Extreme Networks
 
-Organizations/Affiliations
+#Organizations/Affiliations
 organizations:
 - name: Extreme Networks
 #  url: ""
