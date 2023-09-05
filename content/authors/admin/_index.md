@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science Grad | Cyber Security Enthusiast
+role: Associate Software Systems Engineer at Extreme Networks
 
-# Organizations/Affiliations
-#organizations:
-#- name: Stanford University
+Organizations/Affiliations
+organizations:
+- name: Extreme Networks
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
